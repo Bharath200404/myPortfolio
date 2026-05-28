@@ -1,5 +1,6 @@
 {
-  "buildCommand": "npx react-scripts build",
+  "buildCommand": "chmod +x ./node_modules/.bin/react-scripts && react-scripts build",
   "outputDirectory": "build",
-  "framework": "create-react-app"
+  "framework": "create-react-app",
+  "installCommand": "npm install"
 }
