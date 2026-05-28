@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { Code, BarChart, Cpu, Award, BookOpen, Briefcase } from 'lucide-react';
+import { Code, Award, BookOpen, Briefcase } from 'lucide-react';
 
 const About = () => {
   const [ref, inView] = useInView({
