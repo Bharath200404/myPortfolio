@@ -85,7 +85,7 @@ const stats = [
                   I'm an AIML engineering student passionate about Data Science, Machine Learning, and Applied AI, with hands-on experience in building end-to-end intelligent systems. I enjoy transforming complex datasets into practical, scalable, and user-focused solutions through data analysis, predictive modeling, and deployment.
                 </p>
                 <p className="text-gray-300 leading-relaxed">
-                  Skilled in Python, SQL, Machine Learning, EDA, Feature Engineering, and Model Optimization, I have developed projects ranging from churn prediction systems to real-time computer vision applications. I am also experienced in deploying interactive AI applications using FastAPI and Streamlit to solve real-world business problems.
+                  Skilled in Python, SQL, Machine Learning, EDA, Feature Engineering, and Model Optimization, I have developed projects ranging from churn prediction and fraud detection to real-time computer vision applications. I am also experienced in deploying interactive AI applications using FastAPI and Streamlit to solve real-world business problems.
                 </p>
               </div>
             </motion.div>

@@ -26,7 +26,7 @@ const Skills = () => {
       icon: Brain,
       title: 'Machine Learning',
       color: 'from-orange-500 to-red-500',
-      skills: ['Scikit-Learn', 'Ensemble Methods (XGBoost)', 'Model Evaluation'],
+      skills: ['Scikit-Learn', 'Ensemble Methods', 'Model Evaluation'],
     },
     {
       icon: Layout,
