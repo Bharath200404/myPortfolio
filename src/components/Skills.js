@@ -20,7 +20,7 @@ const Skills = () => {
       icon: BarChart,
       title: 'Data Science & Analysis',
       color: 'from-purple-500 to-pink-500',
-      skills: ['Pandas', 'NumPy', 'Exploratory Data Analysis (EDA)', 'Feature Engineering', 'Statistical Modeling', 'Data Visualization (Matplotlib, Seaborn)'],
+      skills: ['Pandas', 'NumPy', 'Exploratory Data Analysis (EDA)', 'Feature Engineering', 'Data Visualization (Matplotlib, Seaborn)'],
     },
     {
       icon: Brain,
