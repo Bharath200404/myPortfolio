@@ -8,7 +8,7 @@ const Internships = () => {
 
   const internships = [
     {
-      title: 'Machine Learning Intern',
+      title: 'Machine Learning',
       organization: 'ERTIA GEN',
       period: 'Oct 2024 - Dec 2024',
       points: [
@@ -19,7 +19,7 @@ const Internships = () => {
       color: 'from-blue-500 to-cyan-500',
     },
     {
-      title: 'Data Science Intern',
+      title: 'Data Science',
       organization: 'KodNest',
       period: 'February 2026 -May 2026',
       points: [
@@ -46,8 +46,8 @@ const Internships = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div ref={ref} initial="hidden" animate={inView ? 'visible' : 'hidden'} variants={containerVariants}>
           <motion.div variants={itemVariants} className="text-center mb-16">
-            <h2 className="section-title">Internships</h2>
-            <p className="section-subtitle max-w-2xl mx-auto">Hands-on industry experience in Data Science, Machine Learning and AI</p>
+            <h2 className="section-title">TRAINING</h2>
+            <p className="section-subtitle max-w-2xl mx-auto">Hands-on  experience in Data Science, Machine Learning and AI</p>
           </motion.div>
 
           <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
